@@ -96,5 +96,5 @@ online_assignment_submission/
 
 Watch the complete demonstration of the Online Assignment Submission System:
 
-[🎥 Watch Demo on YouTube]([https://www.youtube.com/watch?v=YOUR_DEMO_VIDEO_ID](https://youtu.be/23kOYBZLMSE?si=nPCi452-qg9DLrCG))
+[🎥 Watch Demo on YouTube](https://youtu.be/23kOYBZLMSE?si=nPCi452-qg9DLrCG)
 
