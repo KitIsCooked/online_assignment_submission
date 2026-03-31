@@ -98,24 +98,3 @@ Watch the complete demonstration of the Online Assignment Submission System:
 
 [🎥 Watch Demo on YouTube](https://www.youtube.com/watch?v=YOUR_DEMO_VIDEO_ID)
 
-*Note: Replace `YOUR_DEMO_VIDEO_ID` with your actual YouTube video ID*
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support and queries, please open an issue in the GitHub repository or contact the development team.
-
----
-
-**Note**: This project is developed for educational purposes to demonstrate web development skills and database management concepts.
