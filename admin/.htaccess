@@ -1,0 +1,5 @@
+# Admin Panel Access
+# This file ensures the admin folder is accessible
+
+# DirectoryIndex index.php
+# Allow access to admin folder
